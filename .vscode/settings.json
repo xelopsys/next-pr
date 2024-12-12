@@ -1,0 +1,12 @@
+{
+  "liveServer.settings.port": 5501,
+  "eslint.enable": false,
+  "editor.fontSize": 14,
+  "tailwindCSS.experimental.classRegex": [[":\\s*?[\"'`]([^\"'`]*).*?,"]],
+  "tailwindCSS.lint.cssConflict": "warning",
+  "tailwindCSS.lint.invalidScreen": "warning",
+  "tailwindCSS.lint.invalidTailwindDirective": "warning",
+  "tailwindCSS.lint.invalidVariant": "warning",
+  "tailwindCSS.lint.recommendedVariantOrder": "warning",
+  "editor.lineNumbers": "on"
+}

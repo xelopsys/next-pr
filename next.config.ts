@@ -1,7 +1,17 @@
-import type { NextConfig } from "next";
+import type { NextConfig } from 'next';
 
-const nextConfig: NextConfig = {
+const withBundleAnalyzer = require('@next/bundle-analyzer')({
+  enabled: process.env.ANALYZE === 'true',
+});
+
+const nextConfig: NextConfig = withBundleAnalyzer({
   /* config options here */
-};
+  experimental: {
+    optimizePackageImports: ['@a-peak-works/untitledui-icons'],
+    // turbo: {
+    //   treeShaking: true,
+    // },
+  },
+});
 
 export default nextConfig;
