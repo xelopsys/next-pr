@@ -1,6 +1,6 @@
 'use client';
 
-import Button from '@/components/Button';
+import Button from '@/components/shared/buttons/button';
 import { FeaturedIconBase } from '@/components/foundations/featured-icon/featured-icons';
 import { BackgroundPattern } from '@/components/shared-assets/background-elements/patterns';
 import {

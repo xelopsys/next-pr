@@ -5,7 +5,7 @@ import '../styles/colors.min.css';
 import '../styles/manrope.min.css';
 import type { Metadata, Viewport } from 'next';
 import localFont from 'next/font/local';
-import { Theme } from '@/providers/theme-provider';
+import { Theme } from '@/providers/theme';
 import { cx } from '@/components/utils';
 
 const geistSans = localFont({

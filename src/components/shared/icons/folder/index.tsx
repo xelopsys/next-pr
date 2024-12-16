@@ -75,12 +75,12 @@ const Open = ({ brand, ...props }: FolderProps) => (
         y2='45'
         gradientUnits='userSpaceOnUse'>
         <stop
-          stop-color='white'
+          stopColor='white'
           stopOpacity='0.12'
         />
         <stop
           offset='1'
-          stop-color='white'
+          stopColor='white'
           stopOpacity='0'
         />
       </linearGradient>
@@ -92,12 +92,12 @@ const Open = ({ brand, ...props }: FolderProps) => (
         y2='45'
         gradientUnits='userSpaceOnUse'>
         <stop
-          stop-color='white'
+          stopColor='white'
           stopOpacity='0.12'
         />
         <stop
           offset='1'
-          stop-color='white'
+          stopColor='white'
           stopOpacity='0'
         />
       </linearGradient>
@@ -108,10 +108,10 @@ const Open = ({ brand, ...props }: FolderProps) => (
         x2='33.0094'
         y2='43.9225'
         gradientUnits='userSpaceOnUse'>
-        <stop stop-color='white' />
+        <stop stopColor='white' />
         <stop
           offset='1'
-          stop-color='white'
+          stopColor='white'
           stopOpacity='0'
         />
       </linearGradient>
@@ -166,12 +166,12 @@ const Closed = ({ brand, ...props }: FolderProps) => (
         y2='45'
         gradientUnits='userSpaceOnUse'>
         <stop
-          stop-color='white'
+          stopColor='white'
           stopOpacity='0.12'
         />
         <stop
           offset='1'
-          stop-color='white'
+          stopColor='white'
           stopOpacity='0'
         />
       </linearGradient>
@@ -183,12 +183,12 @@ const Closed = ({ brand, ...props }: FolderProps) => (
         y2='45'
         gradientUnits='userSpaceOnUse'>
         <stop
-          stop-color='white'
+          stopColor='white'
           stopOpacity='0.12'
         />
         <stop
           offset='1'
-          stop-color='white'
+          stopColor='white'
           stopOpacity='0'
         />
       </linearGradient>
@@ -199,10 +199,10 @@ const Closed = ({ brand, ...props }: FolderProps) => (
         x2='29.5405'
         y2='44.4675'
         gradientUnits='userSpaceOnUse'>
-        <stop stop-color='white' />
+        <stop stopColor='white' />
         <stop
           offset='1'
-          stop-color='white'
+          stopColor='white'
           stopOpacity='0'
         />
       </linearGradient>

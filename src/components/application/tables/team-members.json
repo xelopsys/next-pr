@@ -1,0 +1,95 @@
+{
+    "items": [
+        {
+            "name": "Olivia Rhye",
+            "username": "@olivia",
+            "status": "active",
+            "title": "Product Designer",
+            "email": "olivia@untitledui.com",
+            "teams": ["Design", "Product", "Marketing"],
+            "avatarUrl": "/avatars/Olivia Rhye.jpg"
+        },
+        {
+            "name": "Phoenix Baker",
+            "username": "@phoenix",
+            "status": "active",
+            "title": "Product Manager",
+            "email": "phoenix@untitledui.com",
+            "teams": ["Design", "Product", "Marketing"],
+            "avatarUrl": "/avatars/Phoenix Baker.jpg"
+        },
+        {
+            "name": "Lana Steiner",
+            "username": "@lana",
+            "status": "active",
+            "title": "Frontend Developer",
+            "email": "lana@untitledui.com",
+            "teams": ["Design", "Product", "Marketing"],
+            "avatarUrl": "/avatars/Lana Steiner.jpg"
+        },
+        {
+            "name": "Demi Wilkinson",
+            "username": "@demi",
+            "status": "active",
+            "title": "Backend Developer",
+            "email": "demi@untitledui.com",
+            "teams": ["Design", "Product", "Marketing"],
+            "avatarUrl": "/avatars/Demi Wilkinson.jpg"
+        },
+        {
+            "name": "Candice Wu",
+            "username": "@candice",
+            "status": "active",
+            "title": "Fullstack Developer",
+            "email": "candice@untitledui.com",
+            "teams": ["Design", "Product", "Marketing"],
+            "avatarUrl": "/avatars/Candice Wu.jpg"
+        },
+        {
+            "name": "Natali Craig",
+            "username": "@natali",
+            "status": "active",
+            "title": "UX Designer",
+            "email": "natali@untitledui.com",
+            "teams": ["Design", "Product", "Marketing"],
+            "avatarUrl": "/avatars/Natali Craig.jpg"
+        },
+        {
+            "name": "Drew Cano",
+            "username": "@drew",
+            "status": "active",
+            "title": "UX Copywriter",
+            "email": "drew@untitledui.com",
+            "teams": ["Design", "Product", "Marketing"],
+            "avatarUrl": "/avatars/Drew Cano.jpg"
+        },
+        {
+            "name": "Orlando Diggs",
+            "username": "@orlando",
+            "status": "active",
+            "title": "UI Designer",
+            "email": "orlando@untitledui.com",
+            "teams": ["Design", "Product", "Marketing"],
+            "avatarUrl": "/avatars/Orlando Diggs.jpg"
+        },
+        {
+            "name": "Andi Lane",
+            "username": "@andi",
+            "status": "active",
+            "title": "Product Manager",
+            "email": "andi@untitledui.com",
+            "teams": ["Design", "Product", "Marketing"],
+            "avatarUrl": "/avatars/Andi Lane.jpg"
+        },
+        {
+            "name": "Kate Morrison",
+            "username": "@kate",
+            "status": "active",
+            "title": "QA Engineer",
+            "email": "kate@untitledui.com",
+            "teams": ["Design", "Product", "Marketing"],
+            "avatarUrl": "/avatars/Kate Morrison.jpg"
+        }
+    ],
+    "total": 10
+}

@@ -3,7 +3,7 @@ import { TextField } from 'react-aria-components';
 import Label from '@/components/shared/inputs/label';
 import React, { ElementRef, forwardRef, ReactNode } from 'react';
 import { Copy01 } from '@a-peak-works/untitledui-icons';
-import Button, { CommonProps } from '@/components/Button';
+import Button, { CommonProps } from '@/components/shared/buttons/button';
 import HintText from '@/components/shared/inputs/hint-text';
 import { InputBaseProps, InputBase } from '@/components/shared/inputs/input';
 

@@ -51,7 +51,7 @@ export default {
 
   plugins: [
     require('./typography/index'),
-    require('./plugins/textStyles'),
+    require('./src/plugins/textStyles'),
     require('tailwindcss-react-aria-components'),
     require('tailwindcss-animate'),
     require('@designbycode/tailwindcss-mask-image'),

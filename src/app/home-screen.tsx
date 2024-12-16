@@ -1,7 +1,7 @@
 'use client';
 
 import dynamic from 'next/dynamic';
-import Button from '@/components/Button';
+import Button from '@/components/shared/buttons/button';
 import Image from 'next/image';
 import { Fragment } from 'react';
 import { ArrowRight } from '@a-peak-works/untitledui-icons';

@@ -1,0 +1,82 @@
+{
+    "items": [
+        {
+            "name": "Ephemeral",
+            "website": "ephemeral.io",
+            "status": "Customer",
+            "about": {
+                "title": "Content curating app",
+                "description": "Brings all your news into one place"
+            },
+            "licenseUse": 70,
+            "logoUrl": "/logos/images/Ephemeral.jpg"
+        },
+        {
+            "name": "Stack3d Lab",
+            "website": "stack3dlab.com",
+            "status": "Churned",
+            "about": {
+                "title": "Design software",
+                "description": "Super lightweight design app"
+            },
+            "licenseUse": 60,
+            "logoUrl": "/logos/images/3Portals.jpg"
+        },
+        {
+            "name": "Warpspeed",
+            "website": "getwarpspeed.com",
+            "status": "Customer",
+            "about": {
+                "title": "Data prediction",
+                "description": "AI and machine learning data"
+            },
+            "licenseUse": 30,
+            "logoUrl": "/logos/images/Warpspeed.jpg"
+        },
+        {
+            "name": "CloudWatch",
+            "website": "cloudwatch.app",
+            "status": "Customer",
+            "about": {
+                "title": "Productivity app",
+                "description": "Time management and productivity"
+            },
+            "licenseUse": 80,
+            "logoUrl": "/logos/images/Cloudwatch.jpg"
+        },
+        {
+            "name": "ContrastAI",
+            "website": "contrastai.com",
+            "status": "Churned",
+            "about": {
+                "title": "Web app integrations",
+                "description": "Connect web apps seamlessly"
+            },
+            "licenseUse": 20,
+            "logoUrl": "/logos/images/ContrastAI.jpg"
+        },
+        {
+            "name": "Convergence",
+            "website": "convergence.io",
+            "status": "Customer",
+            "about": {
+                "title": "Sales CRM",
+                "description": "Web-based sales doc management"
+            },
+            "licenseUse": 10,
+            "logoUrl": "/logos/images/Convergence.jpg"
+        },
+        {
+            "name": "Sisyphus",
+            "website": "sisyphus.com",
+            "status": "Customer",
+            "about": {
+                "title": "Automation and workflow",
+                "description": "Time tracking, invoicing and expenses"
+            },
+            "licenseUse": 40,
+            "logoUrl": "/logos/images/Sisyphus.jpg"
+        }
+    ],
+    "total": 7
+}

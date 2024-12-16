@@ -7,7 +7,11 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 const nextConfig: NextConfig = withBundleAnalyzer({
   /* config options here */
   experimental: {
-    optimizePackageImports: ['@a-peak-works/untitledui-icons'],
+    optimizePackageImports: [
+      '@a-peak-works/untitledui-icons',
+      'motion',
+      'recharts',
+    ],
     // turbo: {
     //   treeShaking: true,
     // },

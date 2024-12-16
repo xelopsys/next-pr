@@ -1,0 +1,115 @@
+{
+    "items": [
+        {
+            "id": "3066",
+            "date": "Jan 6, 2025",
+            "status": "Paid",
+            "customer": {
+                "name": "Olivia Rhye",
+                "email": "olivia@untitledui.com",
+                "avatarUrl": "/avatars/Olivia Rhye.jpg"
+            },
+            "purchase": "Monthly subscription"
+        },
+        {
+            "id": "3065",
+            "date": "Jan 6, 2025",
+            "status": "Paid",
+            "customer": {
+                "name": "Phoenix Baker",
+                "email": "phoenix@untitledui.com",
+                "avatarUrl": "/avatars/Phoenix Baker.jpg"
+            },
+            "purchase": "Monthly subscription"
+        },
+        {
+            "id": "3064",
+            "date": "Jan 6, 2025",
+            "status": "Paid",
+            "customer": {
+                "name": "Lana Steiner",
+                "email": "lana@untitledui.com",
+                "avatarUrl": "/avatars/Lana Steiner.jpg"
+            },
+            "purchase": "Monthly subscription"
+        },
+        {
+            "id": "3063",
+            "date": "Jan 5, 2025",
+            "status": "Paid",
+            "customer": {
+                "name": "Demi Wilkinson",
+                "email": "demi@untitledui.com",
+                "avatarUrl": "/avatars/Demi Wilkinson.jpg"
+            },
+            "purchase": "Monthly subscription"
+        },
+        {
+            "id": "3062",
+            "date": "Jan 5, 2025",
+            "status": "Refunded",
+            "customer": {
+                "name": "Candice Wu",
+                "email": "candice@untitledui.com",
+                "avatarUrl": "/avatars/Candice Wu.jpg"
+            },
+            "purchase": "Monthly subscription"
+        },
+        {
+            "id": "3061",
+            "date": "Jan 5, 2025",
+            "status": "Refunded",
+            "customer": {
+                "name": "Natali Craig",
+                "email": "natali@untitledui.com",
+                "avatarUrl": "/avatars/Natali Craig.jpg"
+            },
+            "purchase": "Monthly subscription"
+        },
+        {
+            "id": "3060",
+            "date": "Jan 4, 2025",
+            "status": "Cancelled",
+            "customer": {
+                "name": "Drew Cano",
+                "email": "drew@untitledui.com",
+                "avatarUrl": "/avatars/Drew Cano.jpg"
+            },
+            "purchase": "Monthly subscription"
+        },
+        {
+            "id": "3059",
+            "date": "Jan 3, 2025",
+            "status": "Paid",
+            "customer": {
+                "name": "Orlando Diggs",
+                "email": "orlando@untitledui.com",
+                "avatarUrl": "/avatars/Orlando Diggs.jpg"
+            },
+            "purchase": "Monthly subscription"
+        },
+        {
+            "id": "3058",
+            "date": "Jan 3, 2025",
+            "status": "Paid",
+            "customer": {
+                "name": "Andi Lane",
+                "email": "andi@untitledui.com",
+                "avatarUrl": "/avatars/Andi Lane.jpg"
+            },
+            "purchase": "Monthly subscription"
+        },
+        {
+            "id": "3057",
+            "date": "Jan 3, 2025",
+            "status": "Paid",
+            "customer": {
+                "name": "Kate Morrison",
+                "email": "kate@untitledui.com",
+                "avatarUrl": "/avatars/Kate Morrison.jpg"
+            },
+            "purchase": "Monthly subscription"
+        }
+    ],
+    "total": 10
+}

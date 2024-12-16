@@ -25,7 +25,7 @@ import {
   Users01,
 } from '@a-peak-works/untitledui-icons';
 
-import Button from '@/components/Button';
+import Button from '@/components/shared/buttons/button';
 
 import {
   ImageCardHorizontal,

@@ -7,7 +7,7 @@ import {
   Popover,
 } from 'react-aria-components';
 
-import Button from '@/components/Button';
+import Button from '@/components/shared/buttons/button';
 import UntitledLogo from '@/components/UntitledLogo';
 import UntitledLogoMinimal from '@/components/UntitledLogoMinimal';
 import { cx } from '@/components/utils';
